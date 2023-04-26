@@ -1,0 +1,32 @@
+[
+    {
+        "JUDUL": "Cập nhật ứng dụng",
+        "DEPKIPSI": "NoxSTD",
+        "TGL": "15-07-2022",
+        "BANNER": "http://103.104.119.245/api/newapp/img/IMG_20220723_163456.png"
+    },
+    {
+        "JUDUL": "Lần cuối game cập nhật",
+        "DEPKIPSI": "Vào ",
+        "TGL": "15-08-2022",
+        "BANNER": "https://cdn.vn.garenanow.com/web/kg/home/images/app-icon-new.png"
+    },
+    {
+        "JUDUL": "Nox AOV News",
+        "DEPKIPSI": "ALL SKIN PATCHER",
+        "TGL": "15-06-2022",
+        "BANNER": "https://i.rada.vn/data/image/2020/08/21/Facebook-2020-200.png"
+    },
+    {
+        "JUDUL": "Tham gia nhóm Nox",
+        "DEPKIPSI": "A",
+        "TGL": "17-02-2021",
+        "BANNER": "https://i.rada.vn/data/image/2020/08/21/Facebook-2020-200.png"
+    },
+    {
+        "JUDUL": "Theo dõi YouTube Nox AOV",
+        "DEPKIPSI": "Subscribe kênh YouTube của tôi",
+        "TGL": "18-01-2020",
+        "BANNER": "https://cdn.icon-icons.com/icons2/2429/PNG/512/youtube_logo_icon_147199.png"
+    }
+]
