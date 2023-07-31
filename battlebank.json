@@ -1692,6 +1692,18 @@
         "hex": "4865726F5F4861796174655F536B696E5F31333231305F564F"
     },
     {
+        "int": 1321120,
+        "skin": 13211,
+        "file": "Hero_Hayate_Skin_13211_SFX",
+        "hex": "4865726F5F4861796174655F536B696E5F31333231315F534658"
+    },
+    {
+        "int": 1321121,
+        "skin": 13211,
+        "file": "Hero_Hayate_Skin_13211_VO",
+        "hex": "4865726F5F4861796174655F536B696E5F31333231315F564F"
+    },
+    {
         "int": 1330020,
         "skin": 13300,
         "file": "Hero_DiRenJie_SFX",
@@ -3510,6 +3522,18 @@
         "hex": "4865726F5F4C695975616E46616E675F536B696E5F31373330355F564F"
     },
     {
+        "int": 1730820,
+        "skin": 17308,
+        "file": "Hero_LiYuanFang_Skin_17308_SFX",
+        "hex": "4865726F5F4C695975616E46616E675F536B696E5F31373330385F534658"
+    },
+    {
+        "int": 1730821,
+        "skin": 17308,
+        "file": "Hero_LiYuanFang_Skin_17308_VO",
+        "hex": "4865726F5F4C695975616E46616E675F536B696E5F31373330385F564F"
+    },
+    {
         "int": 5700020,
         "skin": 57000,
         "file": "Hero_Stuart_SFX",
@@ -4108,6 +4132,18 @@
         "skin": 19505,
         "file": "Hero_Enzo_Skin_19505_VO",
         "hex": "4865726F5F456E7A6F5F536B696E5F31393530355F564F"
+    },
+    {
+        "int": 1950820,
+        "skin": 19508,
+        "file": "Hero_Enzo_Skin_19508_SFX",
+        "hex": "4865726F5F456E7A6F5F536B696E5F31393530385F534658"
+    },
+    {
+        "int": 1950821,
+        "skin": 19508,
+        "file": "Hero_Enzo_Skin_19508_VO",
+        "hex": "4865726F5F456E7A6F5F536B696E5F31393530385F564F"
     },
     {
         "int": 1960020,
@@ -4962,6 +4998,18 @@
         "hex": "4865726F5F5175696C6C656E5F536B696E5F35313830395F564F"
     },
     {
+        "int": 5181020,
+        "skin": 51810,
+        "file": "Hero_Quillen_Skin_51810_SFX",
+        "hex": "4865726F5F5175696C6C656E5F536B696E5F35313831305F534658"
+    },
+    {
+        "int": 5181021,
+        "skin": 51810,
+        "file": "Hero_Quillen_Skin_51810_VO",
+        "hex": "4865726F5F5175696C6C656E5F536B696E5F35313831305F564F"
+    },
+    {
         "int": 5190020,
         "skin": 51900,
         "file": "Hero_Annette_SFX",
@@ -5152,6 +5200,18 @@
         "skin": 52108,
         "file": "Hero_Florentino_Skin_52108_VO",
         "hex": "4865726F5F466C6F72656E74696E6F5F536B696E5F35323130385F564F"
+    },
+    {
+        "int": 5211020,
+        "skin": 52110,
+        "file": "Hero_Florentino_Skin_52110_SFX",
+        "hex": "4865726F5F466C6F72656E74696E6F5F536B696E5F35323131305F534658"
+    },
+    {
+        "int": 5211021,
+        "skin": 52110,
+        "file": "Hero_Florentino_Skin_52110_VO",
+        "hex": "4865726F5F466C6F72656E74696E6F5F536B696E5F35323131305F564F"
     },
     {
         "int": 5220020,
@@ -7132,6 +7192,18 @@
         "skin": 15710,
         "file": "Hero_BuZhiHuoWu_Skin_15710_VO",
         "hex": "4865726F5F42755A686948756F57755F536B696E5F31353731305F564F"
+    },
+    {
+        "int": 1571120,
+        "skin": 15711,
+        "file": "Hero_BuZhiHuoWu_Skin_15711_SFX",
+        "hex": "4865726F5F42755A686948756F57755F536B696E5F31353731315F534658"
+    },
+    {
+        "int": 1571121,
+        "skin": 15711,
+        "file": "Hero_BuZhiHuoWu_Skin_15711_VO",
+        "hex": "4865726F5F42755A686948756F57755F536B696E5F31353731315F564F"
     },
     {
         "int": 3003000,
