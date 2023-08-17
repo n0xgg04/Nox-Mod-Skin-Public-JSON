@@ -2022,6 +2022,15 @@
       "readOnly": false,
       "hasBack": false,
       "hasHaste": false
+    },
+    {
+      "name": "Skin 12",
+      "idModel": 13314,
+      "hasEffect": true,
+      "hasSound": true,
+      "readOnly": false,
+      "hasBack": true,
+      "hasHaste": false
     }
   ],
   "134": [
@@ -6162,7 +6171,7 @@
     },
     {
       "name": "Skin 8",
-      "idModel": 52610,
+      "idModel": 5267,
       "hasEffect": false,
       "hasSound": false,
       "readOnly": false,
