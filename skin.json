@@ -3149,7 +3149,7 @@
     {
       "name": "Skin 9",
       "idModel": 15610,
-      "hasEffect": true,
+      "hasEffect": false,
       "hasSound": true,
       "readOnly": false,
       "hasBack": false,
@@ -3158,7 +3158,7 @@
     {
       "name": "Skin 10",
       "idModel": 15611,
-      "hasEffect": false,
+      "hasEffect": true,
       "hasSound": true,
       "readOnly": false,
       "hasBack": false,
@@ -6839,7 +6839,7 @@
     {
       "name": "Skin 1",
       "idModel": 5402,
-      "hasEffect": false,
+      "hasEffect": true,
       "hasSound": false,
       "readOnly": false,
       "hasBack": false,
@@ -6875,7 +6875,7 @@
     {
       "name": "Skin 4",
       "idModel": 5407,
-      "hasEffect": false,
+      "hasEffect": true,
       "hasSound": false,
       "readOnly": false,
       "hasBack": false,
