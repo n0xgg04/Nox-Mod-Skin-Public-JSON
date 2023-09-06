@@ -5599,7 +5599,7 @@
       "name": "Skin 7",
       "idModel": 5188,
       "hasEffect": true,
-      "hasSound": true,
+      "hasSound": false,
       "readOnly": false,
       "hasBack": false,
       "hasHaste": false
