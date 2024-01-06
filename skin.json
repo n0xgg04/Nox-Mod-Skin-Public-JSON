@@ -311,6 +311,15 @@
       "readOnly": false,
       "hasBack": false,
       "hasHaste": false
+    },
+    {
+      "name": "Skin 8",
+      "idModel": 10810,
+      "hasEffect": true,
+      "hasSound": true,
+      "readOnly": false,
+      "hasBack": true,
+      "hasHaste": false
     }
   ],
   "109": [
@@ -4802,6 +4811,15 @@
       "readOnly": false,
       "hasBack": true,
       "hasHaste": false
+    },
+    {
+      "name": "Skin 8",
+      "idModel": 19510,
+      "hasEffect": true,
+      "hasSound": true,
+      "readOnly": false,
+      "hasBack": true,
+      "hasHaste": false
     }
   ],
   "196": [
@@ -4875,6 +4893,15 @@
       "hasSound": true,
       "readOnly": false,
       "hasBack": true,
+      "hasHaste": false
+    },
+    {
+      "name": "Skin 9",
+      "idModel": 19612,
+      "hasEffect": true,
+      "hasSound": true,
+      "readOnly": false,
+      "hasBack": false,
       "hasHaste": false
     }
   ],
