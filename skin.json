@@ -623,15 +623,6 @@
       "readOnly": false,
       "hasBack": false,
       "hasHaste": false
-    },
-    {
-      "name": "Skin 17",
-      "idModel": 11120,
-      "hasEffect": true,
-      "hasSound": true,
-      "readOnly": false,
-      "hasBack": true,
-      "hasHaste": false
     }
   ],
   "112": [
