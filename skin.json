@@ -634,7 +634,7 @@
       "hasHaste": false
     },
      {
-      "name": "Skin 18",
+      "name": "Skin 17",
       "idModel": 11118,
       "hasEffect": false,
       "hasSound": false,
@@ -643,7 +643,7 @@
       "hasHaste": false
     },
     {
-      "name": "Skin 17",
+      "name": "Skin 18",
       "idModel": 11120,
       "hasEffect": true,
       "hasSound": true,
@@ -4054,7 +4054,7 @@
       "hasEffect": true,
       "hasSound": true,
       "readOnly": false,
-      "hasBack": false,
+      "hasBack": true,
       "hasHaste": false
     }
   ],
@@ -4388,7 +4388,7 @@
       "hasEffect": true,
       "hasSound": true,
       "readOnly": false,
-      "hasBack": false,
+      "hasBack": true,
       "hasHaste": false
     }
   ],
@@ -7606,7 +7606,7 @@
     },
     {
       "name": "Skin 2",
-      "idModel": 5464,
+      "idModel": 5463,
       "hasEffect": true,
       "hasSound": true,
       "readOnly": false,
@@ -7615,7 +7615,7 @@
     },
     {
       "name": "Skin 3",
-      "idModel": 5463,
+      "idModel": 5464,
       "hasEffect": true,
       "hasSound": true,
       "readOnly": false,
