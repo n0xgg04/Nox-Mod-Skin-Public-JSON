@@ -5142,6 +5142,18 @@
         "hex": "4865726F5F4F6D656E5F536B696E5F35303630385F564F"
     },
     {
+        "int": 5061020,
+        "skin": 50610,
+        "file": "Hero_Omen_Skin_50610_SFX",
+        "hex": "4865726F5F4F6D656E5F536B696E5F35303631305F534658"
+    },
+    {
+        "int": 5061021,
+        "skin": 50610,
+        "file": "Hero_Omen_Skin_50610_VO",
+        "hex": "4865726F5F4F6D656E5F536B696E5F35303631305F564F"
+    },
+    {
         "int": 5061120,
         "skin": 50611,
         "file": "Hero_Omen_Skin_50611_SFX",
