@@ -1531,6 +1531,15 @@
       "readOnly": false,
       "hasBack": true,
       "hasHaste": false
+    },
+    {
+      "name": "Skin 7",
+      "idModel": 1268,
+      "hasEffect": false,
+      "hasSound": false,
+      "readOnly": false,
+      "hasBack": false,
+      "hasHaste": false
     }
   ],
   "127": [
@@ -3000,6 +3009,15 @@
       "readOnly": false,
       "hasBack": false,
       "hasHaste": false
+    },
+    {
+      "name": "Skin 9",
+      "idModel": 14911,
+      "hasEffect": false,
+      "hasSound": false,
+      "readOnly": false,
+      "hasBack": false,
+      "hasHaste": false
     }
   ],
   "150": [
@@ -3087,6 +3105,15 @@
     {
       "name": "Skin 10",
       "idModel": 15013,
+      "hasEffect": true,
+      "hasSound": true,
+      "readOnly": false,
+      "hasBack": true,
+      "hasHaste": true
+    },
+    {
+      "name": "Skin 11",
+      "idModel": 15016,
       "hasEffect": true,
       "hasSound": true,
       "readOnly": false,
@@ -3888,6 +3915,15 @@
     {
       "name": "Skin 11",
       "idModel": 16712,
+      "hasEffect": true,
+      "hasSound": true,
+      "readOnly": false,
+      "hasBack": true,
+      "hasHaste": false
+    },
+    {
+      "name": "Skin 12",
+      "idModel": 16713,
       "hasEffect": true,
       "hasSound": true,
       "readOnly": false,
@@ -7571,6 +7607,15 @@
       "readOnly": false,
       "hasBack": false,
       "hasHaste": false
+    },
+    {
+      "name": "Skin 5",
+      "idModel": 5386,
+      "hasEffect": true,
+      "hasSound": true,
+      "readOnly": false,
+      "hasBack": false,
+      "hasHaste": false
     }
   ],
   "539": [
@@ -7880,6 +7925,15 @@
     },
     {
       "name": "Skin 3",
+      "idModel": 5484,
+      "hasEffect": true,
+      "hasSound": true,
+      "readOnly": false,
+      "hasBack": false,
+      "hasHaste": false
+    },
+    {
+      "name": "Skin 4",
       "idModel": 5485,
       "hasEffect": true,
       "hasSound": true,
