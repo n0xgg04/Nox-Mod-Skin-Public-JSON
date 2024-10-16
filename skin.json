@@ -457,6 +457,15 @@
       "readOnly": false,
       "hasBack": false,
       "hasHaste": false
+    },
+    {
+      "name": "Skin 15",
+      "idModel": 10915,
+      "hasEffect": true,
+      "hasSound": true,
+      "readOnly": false,
+      "hasBack": false,
+      "hasHaste": false
     }
   ],
   "110": [
@@ -785,6 +794,15 @@
       "hasEffect": true,
       "hasSound": true,
       "readOnly": false,
+      "hasBack": true,
+      "hasHaste": false
+    },
+    {
+      "name": "Skin 12",
+      "idModel": 11215,
+      "hasEffect": true,
+      "hasSound": true,
+      "readOnly": false,
       "hasBack": false,
       "hasHaste": false
     }
@@ -840,6 +858,15 @@
     {
       "name": "Skin 3",
       "idModel": 1145,
+      "hasEffect": false,
+      "hasSound": false,
+      "readOnly": false,
+      "hasBack": false,
+      "hasHaste": false
+    },
+    {
+      "name": "Skin 4",
+      "idModel": 1146,
       "hasEffect": false,
       "hasSound": false,
       "readOnly": false,
@@ -4669,6 +4696,15 @@
       "readOnly": false,
       "hasBack": false,
       "hasHaste": false
+    },
+    {
+      "name": "Skin 8",
+      "idModel": 1809,
+      "hasEffect": false,
+      "hasSound": false,
+      "readOnly": false,
+      "hasBack": false,
+      "hasHaste": false
     }
   ],
   "184": [
@@ -5085,6 +5121,15 @@
       "hasSound": true,
       "readOnly": false,
       "hasBack": false,
+      "hasHaste": false
+    },
+    {
+      "name": "Skin 8",
+      "idModel": 19110,
+      "hasEffect": true,
+      "hasSound": true,
+      "readOnly": false,
+      "hasBack": true,
       "hasHaste": false
     }
   ],
@@ -7218,6 +7263,15 @@
       "readOnly": false,
       "hasBack": false,
       "hasHaste": false
+    },
+    {
+      "name": "Skin 10",
+      "idModel": 52711,
+      "hasEffect": true,
+      "hasSound": true,
+      "readOnly": false,
+      "hasBack": true,
+      "hasHaste": false
     }
   ],
   "528": [
@@ -7708,6 +7762,15 @@
       "idModel": 53511,
       "hasEffect": true,
       "hasSound": true,
+      "readOnly": false,
+      "hasBack": false,
+      "hasHaste": false
+    },
+    {
+      "name": "Skin 9",
+      "idModel": 53512,
+      "hasEffect": false,
+      "hasSound": false,
       "readOnly": false,
       "hasBack": false,
       "hasHaste": false
